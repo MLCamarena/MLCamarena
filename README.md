@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, its Manuel here 👋
+
+## Frontend Developer from Spain. React and Angular expertise.
+
+You can find more info soon
 
 <!--
 **MLCamarena/MLCamarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
