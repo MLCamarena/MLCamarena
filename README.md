@@ -1,6 +1,6 @@
 ### Hi there, its Manuel here 👋
 
-## Frontend Developer from Spain. React and Angular expertise.
+#### Frontend Developer from Spain. React and Angular expertise.
 
 You can find more info soon
 
