@@ -2,7 +2,8 @@
 
 #### Frontend Developer from Spain. React and Angular expertise.
 
-You can find more info soon
+Personal account in which i'm trying to group all my important projects and developments. 
+It will be completed with time..
 
 <!--
 **MLCamarena/MLCamarena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
